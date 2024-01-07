@@ -1,0 +1,4 @@
+This is TASK 3 of the Machine Learning Internship provided by Bharat Intern.
+IRIS FLOWER CLASSIFICATION: Using the K-Nearest Neighbors (KNN) algorithm to classify Iris flowers based on their sepal and petal measurements.
+KNN is a good choice for IRIS FLOWER CLASSIFICATION since it is simple to implement and interpret.
+
